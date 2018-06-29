@@ -1,6 +1,6 @@
 ---
 - name: Ping Windows
-  hosts: localhost
+  hosts: windows
 
   tasks:
   - name: Ping Windows
